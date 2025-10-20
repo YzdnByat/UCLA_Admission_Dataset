@@ -39,5 +39,3 @@ The project explores both **regression** and **classification** approaches using
   - Training/validation curves for neural networks.
   - Comparison of predicted vs actual admission probabilities.
   - Confusion Matrix for classification results.
-
----
